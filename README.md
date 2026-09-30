@@ -7,9 +7,6 @@
 * **Jasson Wilfredo Cardoza Chiquillo**
 * **Edgar Alexander Avelar Rivera**
 
-## Descripción Inicial De La Problemática
-Este repositorio será usado con el fin de crear nuestro proyecto de programación y tratara de Identificar la acumulación de residuos reciclables (plástico, papel, cartón, vidrio y metal) que terminan mezclados con la basura común debido a la falta de información sobre dónde reciclar y la poca participación de las personas en el reciclaje. 
-
 ## 1. Descripción de la Problemática Ambiental
 El proyecto **Recicla Cerca** aborda la acumulación incontrolada de residuos reciclables (como plástico, papel, cartón, vidrio y metal) en el departamento de Chalatenango. Actualmente, estos materiales con valor potencial terminan mezclados con la basura común debido a la severa falta de información pública sobre los puntos de reciclaje y a la baja participación ciudadana. Esta gestión inadecuada de los desechos no solo deteriora la imagen visual de los municipios de Chalatenango, sino que genera contaminación en los ecosistemas locales y amenaza los recursos naturales y la biodiversidad de la zona.
 
